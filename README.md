@@ -22,10 +22,15 @@ Each lab focuses on reinforcing core networking concepts through hands-on practi
 vovilosccnalabs/
 │
 ├── basic_labs/ # Fundamental networking setups (topologies, IP addressing)
+
 ├── routing_switching/ # Labs on static & dynamic routing, VLANs, trunking, STP
+
 ├── subnetting_practice/ # Subnet design and calculation exercises
+
 ├── network_security/ # Basic security configurations (ACLs, port security, etc.)
+
 ├── troubleshooting/ # Diagnostic and problem-solving scenarios
+
 └── documentation/ # Notes, summaries, and configuration guides
 
 
