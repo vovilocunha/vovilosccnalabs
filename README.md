@@ -19,8 +19,8 @@ Each lab focuses on reinforcing core networking concepts through hands-on practi
 
 ## 🧩 Repository Structure
 
-vovilosccnalabs/
-│
+vovilosccnalabs
+
 ├── basic_labs/ # Fundamental networking setups (topologies, IP addressing)
 
 ├── routing_switching/ # Labs on static & dynamic routing, VLANs, trunking, STP
